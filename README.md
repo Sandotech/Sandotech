@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to create/improve your business idea(s)
 - 🤔 I’m looking for help with Javascript environment
 - 💬 Let's talk!
-- 📫 How to reach me: I'm on Instagram as [@diegoelsanto_](https://www.instagram.com/diegoelsanto/)
+- 📫 How to reach me: I'm on Linkedin as [sandotech_](https://www.linkedin.com/in/sandotech)
 - 😄 Pronouns: He/is 
 - ⚡ Fun fact: I love A Song of Ice and Fire (Game Of Thrones World)
 
