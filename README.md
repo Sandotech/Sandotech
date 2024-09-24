@@ -9,17 +9,21 @@
 
 - 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
 
+- 👨‍💻 All of my projects are available at [https://unsanto.tech/](https://unsanto.tech/)
+
 - 💬 Ask me about **Ruby**
 
 - 📫 How to reach me **dseosantos76@gmail.com**
 
-- 📄 Know about my experiences [https://peat-goat-699.notion.site/About-Me-0c1245fc073e43708bc3e01bfbb9f39f](https://peat-goat-699.notion.site/About-Me-0c1245fc073e43708bc3e01bfbb9f39f)
+- 📄 Know about my experiences [here](https://peat-goat-699.notion.site/About-Me-0c1245fc073e43708bc3e01bfbb9f39f)
 
 - ⚡ Fun fact **I'm a big fan of Game Of Thrones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandotech" height="30" width="40" /></a>
+<a href="https://instagram.com/diegoelsanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diegoelsanto" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/n6kPtRA8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/n6kPtRA8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
