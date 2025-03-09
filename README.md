@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandotech" alt="sandotech" /></a> </p>
 
-- 🔭 I’m currently working on [Regnum Clap](https://regnumclap.com/)
+- 🔭 I’m currently working on [Chicks Gold](https://chicksgold.com/)
 
 - 🌱 I’m currently learning **RegExp, AWS**
 
