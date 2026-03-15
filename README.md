@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [The Odin Project](https://www.theodinproject.com/)
 
-- 👨‍💻 All of my projects are available at [https://unsanto.tech/](https://unsanto.tech/)
+- 👨‍💻 All of my projects are available at [my website](https://eusantos.com/)
 
 - 💬 Ask me about **Ruby**
 
